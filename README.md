@@ -5,6 +5,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
  - All data is accessed through one URL, unlike REST which uses multiple endpoints.
  - The schema defines what queries are allowed and what types of data exist.
  - The client controls the shape and structure of the response.
+ 
  ## ✅ Advantages of GraphQL
 
 - 🔄 **Flexibility in queries**  
@@ -13,9 +14,16 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 - 📡 **Support for real-time (Subscriptions)**  
 - 🚀 **API evolution without breaking clients**  
 - 📶 **Bandwidth usage efficiency**
+ ## ✅ Advantages of GraphQL
+## ⚠️ Disadvantages of GraphQL
+
+ ⚙️ **Complexity in implementation**  
+- 📘 **Learning curve**  
+- 🧠 **Server overload risk**  
+- ❌ **Lacks native HTTP cache support**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTgwODQ1ODEsMTc3MDQxODkwMCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQyMjkwNjY5NywxNzcwNDE4OTAwLDczMD
+k5ODExNl19
 -->
