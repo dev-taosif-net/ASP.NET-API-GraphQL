@@ -7,25 +7,21 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
  - The client controls the shape and structure of the response.
  
  ## ✅ Advantages of GraphQL
- - 🔄 **Flexibility in queries**
- - 📉 **Reducing API calls**  
- - 🧾 **Strong typing and automatic documentation**  
- - 📡 **Support for real-time (Subscriptions)**  
- - 🚀 **API evolution without breaking clients**  
- - 📶 **Bandwidth usage efficiency**
+- 🔄 **Flexibility in queries**
+- 📉 **Reducing API calls**  
+- 🧾 **Strong typing and automatic documentation**  
+- 📡 **Support for real-time (Subscriptions)**  
+- 🚀 **API evolution without breaking clients**  
+- 📶 **Bandwidth usage efficiency**
 
- ## ✅ Disadvantages of GraphQL
- ⚙️ **Co
-
- - List item
-
-mplexity in implementation**  
+ ## ⚠️ Disadvantages of GraphQL
+ - ⚙️ **Complexity in implementation**  
 - 📘 **Learning curve**  
 - 🧠 **Server overload risk**  
 - ❌ **Lacks native HTTP cache support**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDYwNjc5MiwxNzcwNDE4OTAwLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbODMwNjE4OTMzLDE3NzA0MTg5MDAsNzMwOT
+k4MTE2XX0=
 -->
