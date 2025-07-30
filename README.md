@@ -27,13 +27,13 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
  ## ✅ Future Learning Scope
  - [ ] Hot Chocolate Nugget package 
- - [ ] Banana Cafe 
+ - [ ] Banana Cake pop
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzY4NDQwOCwtNTAzODcxMjczLDQxOD
+eyJoaXN0b3J5IjpbMTczNDE0NzE5NiwtNTAzODcxMjczLDQxOD
 g1NTA3LDgzMDYxODkzMywxNzcwNDE4OTAwLDczMDk5ODExNl19
 
 -->
