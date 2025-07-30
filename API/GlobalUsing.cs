@@ -1,2 +1,1 @@
-﻿global using GraphQL.Types;
-global using API.Context;
+﻿global using API.Context;
