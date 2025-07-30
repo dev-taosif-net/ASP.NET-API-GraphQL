@@ -5,8 +5,9 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
  - All data is accessed through one URL, unlike REST which uses multiple endpoints.
  - The schema defines what queries are allowed and what types of data exist.
  - The client controls the shape and structure of the response.
- - Overfetching(Request only specific fields you need) 
- - Underfetching(Combine multiple queries into one request)
+ - Solves Overfetching → Clients get only the fields they request, not 		extra data.
+ - Solves Underfetching → Clients can fetch related data in a single request, avoiding multiple round trips.
+ - Acts like a smart BFF (Backend For Frontend) → One flexible API that serves multiple frontends (web, mobile, etc.) with different data needs.
  
  ## ✅ Advantages of GraphQL
  - 🔄 **Flexibility in queries**
@@ -31,6 +32,6 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjcwMTc3MDQsNDE4ODU1MDcsODMwNj
-E4OTMzLDE3NzA0MTg5MDAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTUwMzg3MTI3Myw0MTg4NTUwNyw4MzA2MT
+g5MzMsMTc3MDQxODkwMCw3MzA5OTgxMTZdfQ==
 -->
