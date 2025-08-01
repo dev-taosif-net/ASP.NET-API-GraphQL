@@ -85,10 +85,16 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
     }
    Variable:
 
-           {
+    {
     "name"  :  "Taosif" 
     }
-       Request :
+Response:
+
+    {
+      "data": {
+        "sayHello": "Hello,Taosif !"
+      }
+    }
 
  
 
@@ -102,9 +108,9 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Njk4NTU2OSwxMjM4MDgyMjQyLDE2Nz
-Q3MDUyNDIsLTE0ODk0NDQ2MTYsNDkwMDI5NDQwLDg5NzgyNDU5
-MCwxNzg0NjIwNzk5LDE3MzQxNDcxOTYsLTUwMzg3MTI3Myw0MT
-g4NTUwNyw4MzA2MTg5MzMsMTc3MDQxODkwMCw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTE5MDA4OTk3ODcsMTIzODA4MjI0MiwxNj
+c0NzA1MjQyLC0xNDg5NDQ0NjE2LDQ5MDAyOTQ0MCw4OTc4MjQ1
+OTAsMTc4NDYyMDc5OSwxNzM0MTQ3MTk2LC01MDM4NzEyNzMsND
+E4ODU1MDcsODMwNjE4OTMzLDE3NzA0MTg5MDAsNzMwOTk4MTE2
+XX0=
 -->
