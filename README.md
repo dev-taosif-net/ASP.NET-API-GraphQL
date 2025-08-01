@@ -39,7 +39,11 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
       }
     }
   ## ✅ Transport Agnostic
-  
+  -   HTTP POST (most common)
+-   HTTP GET for Queries
+-   WebSockets for Subscriptions
+-   SSE for Subscriptions
+-   gRPC used in some instances
  
  ## ✅ Nugget package 
  - **GraphQL.Server.All**  => This will install all the dependency. Only GraphQL and GraphQL.Server.Transport will do the work
@@ -52,7 +56,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDM0ODcyNiw4OTc4MjQ1OTAsMTc4ND
-YyMDc5OSwxNzM0MTQ3MTk2LC01MDM4NzEyNzMsNDE4ODU1MDcs
-ODMwNjE4OTMzLDE3NzA0MTg5MDAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDkwMDI5NDQwLDg5NzgyNDU5MCwxNzg0Nj
+IwNzk5LDE3MzQxNDcxOTYsLTUwMzg3MTI3Myw0MTg4NTUwNyw4
+MzA2MTg5MzMsMTc3MDQxODkwMCw3MzA5OTgxMTZdfQ==
 -->
