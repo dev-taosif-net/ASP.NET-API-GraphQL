@@ -53,6 +53,10 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
   **Step1:Create a project**
  - dotnet new web -n FirstGraphQL
  - dotnet sln .\ASP.NET-API-GraphQL.sln add .\FirstGraphQL\
+  **Step1:Create **
+ -  dotnet add package HotChocolate.AspNetCore
+
+ 
 
   
   
@@ -64,8 +68,8 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk0NDQ2MTYsNDkwMDI5NDQwLDg5Nz
-gyNDU5MCwxNzg0NjIwNzk5LDE3MzQxNDcxOTYsLTUwMzg3MTI3
-Myw0MTg4NTUwNyw4MzA2MTg5MzMsMTc3MDQxODkwMCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExMTQwMjk4ODgsLTE0ODk0NDQ2MTYsND
+kwMDI5NDQwLDg5NzgyNDU5MCwxNzg0NjIwNzk5LDE3MzQxNDcx
+OTYsLTUwMzg3MTI3Myw0MTg4NTUwNyw4MzA2MTg5MzMsMTc3MD
+QxODkwMCw3MzA5OTgxMTZdfQ==
 -->
