@@ -31,6 +31,14 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 | Write| Mutations | POST , PUT ,DELETE , PATCH | 
 | Events | Subscription  | N/A | 
 
+        query GetAssets($first: Int) {
+      assets(first: $first) {
+        nodes {
+          name
+        }
+      }
+    }
+
  
  ## ✅ Nugget package 
  - **GraphQL.Server.All**  => This will install all the dependency. Only GraphQL and GraphQL.Server.Transport will do the work
@@ -43,7 +51,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDYyMDc5OSwxNzM0MTQ3MTk2LC01MD
-M4NzEyNzMsNDE4ODU1MDcsODMwNjE4OTMzLDE3NzA0MTg5MDAs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODk3ODI0NTkwLDE3ODQ2MjA3OTksMTczND
+E0NzE5NiwtNTAzODcxMjczLDQxODg1NTA3LDgzMDYxODkzMywx
+NzcwNDE4OTAwLDczMDk5ODExNl19
 -->
