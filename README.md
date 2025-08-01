@@ -39,18 +39,21 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
       }
     }
   ## ✅ Transport Agnostic
-  -   HTTP POST (most common)
--   HTTP GET for Queries
--   WebSockets for Subscriptions
--   SSE for Subscriptions
--   gRPC used in some instances
+ -   HTTP POST (most common)
+ -   HTTP GET for Queries
+ -   WebSockets for Subscriptions
+ -   SSE for Subscriptions
+ -   gRPC used in some instances
  
  ## ✅ Nugget package 
  - **GraphQL.Server.All**  => This will install all the dependency. Only GraphQL and GraphQL.Server.Transport will do the work
  - **Hot Chocolate**
  
   ## ✅ First GraphQL Server(Using Hot chocolate)
-  
+  **Step1:Create a project**
+ - dotnet new web -n FirstGraphQL
+ - dotnet sln .\ASP.NET-API-GraphQL.sln add .\FirstGraphQL\
+
   
   
 
@@ -61,7 +64,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA1MDYyNTMsNDkwMDI5NDQwLDg5Nz
+eyJoaXN0b3J5IjpbLTE0ODk0NDQ2MTYsNDkwMDI5NDQwLDg5Nz
 gyNDU5MCwxNzg0NjIwNzk5LDE3MzQxNDcxOTYsLTUwMzg3MTI3
 Myw0MTg4NTUwNyw4MzA2MTg5MzMsMTc3MDQxODkwMCw3MzA5OT
 gxMTZdfQ==
