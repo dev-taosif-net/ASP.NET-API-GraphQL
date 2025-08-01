@@ -57,6 +57,10 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
  **Step2: Add nugget Package**
 
  - dotnet add package HotChocolate.AspNetCore
+ 
+  **Step3: Go to the graphQl Server**
+
+ - https://localhost:7112/graphql/
 
  
 
@@ -70,8 +74,8 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDcwNTI0MiwtMTQ4OTQ0NDYxNiw0OT
-AwMjk0NDAsODk3ODI0NTkwLDE3ODQ2MjA3OTksMTczNDE0NzE5
-NiwtNTAzODcxMjczLDQxODg1NTA3LDgzMDYxODkzMywxNzcwND
-E4OTAwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTIzODA4MjI0MiwxNjc0NzA1MjQyLC0xND
+g5NDQ0NjE2LDQ5MDAyOTQ0MCw4OTc4MjQ1OTAsMTc4NDYyMDc5
+OSwxNzM0MTQ3MTk2LC01MDM4NzEyNzMsNDE4ODU1MDcsODMwNj
+E4OTMzLDE3NzA0MTg5MDAsNzMwOTk4MTE2XX0=
 -->
