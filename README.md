@@ -57,13 +57,28 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
  **Step2: Add nugget Package**
 
  - dotnet add package HotChocolate.AspNetCore
- 
-
-    enter code here
 
   **Step3: Go to the graphQl Server**
 
  - https://localhost:7112/graphql/
+ 
+ **Step4: Code**
+ Code:
+
+     var builder = WebApplication.CreateBuilder(args);  
+    builder.Services  
+      .AddGraphQLServer()  
+     .AddQueryType<Query>();  
+    var app = builder.Build();  
+    app.MapGraphQL();  
+    app.MapGet("/", () => "Hello World!");  
+    app.Run();  
+    public class Query  
+    {  
+      public string SayHello(string name = "GraphQL") => $"Hello,{name} !";  
+    }
+   Request :
+   
 
  
 
@@ -77,9 +92,9 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMTQ3MjQxLDEyMzgwODIyNDIsMTY3ND
-cwNTI0MiwtMTQ4OTQ0NDYxNiw0OTAwMjk0NDAsODk3ODI0NTkw
-LDE3ODQ2MjA3OTksMTczNDE0NzE5NiwtNTAzODcxMjczLDQxOD
-g1NTA3LDgzMDYxODkzMywxNzcwNDE4OTAwLDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbLTEwNzAwMTAyNjgsMTIzODA4MjI0MiwxNj
+c0NzA1MjQyLC0xNDg5NDQ0NjE2LDQ5MDAyOTQ0MCw4OTc4MjQ1
+OTAsMTc4NDYyMDc5OSwxNzM0MTQ3MTk2LC01MDM4NzEyNzMsND
+E4ODU1MDcsODMwNjE4OTMzLDE3NzA0MTg5MDAsNzMwOTk4MTE2
+XX0=
 -->
