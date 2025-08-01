@@ -22,6 +22,13 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
  - 📘 **Learning curve**  
  - 🧠 **Server overload risk**  
  - ❌ **Lacks native HTTP cache support**
+  ## ✅ Operations
+  
+|  Operation| GraphQL  |
+|--|--|
+|  |  |
+
+ 
  ## ✅ Nugget package 
  - **GraphQL.Server.All**  => This will install all the dependency. Only GraphQL and GraphQL.Server.Transport will do the work
 
@@ -33,7 +40,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDE0NzE5NiwtNTAzODcxMjczLDQxOD
-g1NTA3LDgzMDYxODkzMywxNzcwNDE4OTAwLDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbLTEwMTMxOTkyNjksMTczNDE0NzE5NiwtNT
+AzODcxMjczLDQxODg1NTA3LDgzMDYxODkzMywxNzcwNDE4OTAw
+LDczMDk5ODExNl19
 -->
