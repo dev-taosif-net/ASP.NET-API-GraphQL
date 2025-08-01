@@ -47,16 +47,19 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
  
  ## ✅ Nugget package 
  - **GraphQL.Server.All**  => This will install all the dependency. Only GraphQL and GraphQL.Server.Transport will do the work
+ - **Hot Chocolate**
+ 
+  ## ✅ First GraphQL S
 
  ## ✅ Future Learning Scope
- - [ ] Hot Chocolate Nugget package 
  - [ ] Banana Cake pop
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwMDI5NDQwLDg5NzgyNDU5MCwxNzg0Nj
-IwNzk5LDE3MzQxNDcxOTYsLTUwMzg3MTI3Myw0MTg4NTUwNyw4
-MzA2MTg5MzMsMTc3MDQxODkwMCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTY4NzU5NzI3LDQ5MDAyOTQ0MCw4OTc4Mj
+Q1OTAsMTc4NDYyMDc5OSwxNzM0MTQ3MTk2LC01MDM4NzEyNzMs
+NDE4ODU1MDcsODMwNjE4OTMzLDE3NzA0MTg5MDAsNzMwOTk4MT
+E2XX0=
 -->
