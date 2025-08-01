@@ -52,6 +52,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
   ## ✅ First GraphQL Server(Using Hot chocolate)
   
   
+  
 
  ## ✅ Future Learning Scope
  - [ ] Banana Cake pop
@@ -60,7 +61,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTcxMjQ1MTEsNDkwMDI5NDQwLDg5Nz
+eyJoaXN0b3J5IjpbLTExOTA1MDYyNTMsNDkwMDI5NDQwLDg5Nz
 gyNDU5MCwxNzg0NjIwNzk5LDE3MzQxNDcxOTYsLTUwMzg3MTI3
 Myw0MTg4NTUwNyw4MzA2MTg5MzMsMTc3MDQxODkwMCw3MzA5OT
 gxMTZdfQ==
