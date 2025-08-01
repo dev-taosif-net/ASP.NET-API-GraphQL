@@ -38,7 +38,8 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
         }
       }
     }
-
+  ## ✅ Transport Agnostic
+  
  
  ## ✅ Nugget package 
  - **GraphQL.Server.All**  => This will install all the dependency. Only GraphQL and GraphQL.Server.Transport will do the work
@@ -51,7 +52,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3ODI0NTkwLDE3ODQ2MjA3OTksMTczND
-E0NzE5NiwtNTAzODcxMjczLDQxODg1NTA3LDgzMDYxODkzMywx
-NzcwNDE4OTAwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTYyNDM0ODcyNiw4OTc4MjQ1OTAsMTc4ND
+YyMDc5OSwxNzM0MTQ3MTk2LC01MDM4NzEyNzMsNDE4ODU1MDcs
+ODMwNjE4OTMzLDE3NzA0MTg5MDAsNzMwOTk4MTE2XX0=
 -->
