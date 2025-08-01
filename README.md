@@ -24,9 +24,9 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
  - ❌ **Lacks native HTTP cache support**
   ## ✅ Operations
   
-|  Operation| GraphQL  |
-|--|--|
-|  |  |
+|  Operation| GraphQL  | REST  | 
+| - |--|--  | 
+|  |  |--  | 
 
  
  ## ✅ Nugget package 
@@ -40,7 +40,7 @@ GraphQL is a query language for APIs and a runtime for executing those queries w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMxOTkyNjksMTczNDE0NzE5NiwtNT
-AzODcxMjczLDQxODg1NTA3LDgzMDYxODkzMywxNzcwNDE4OTAw
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTUwMTI3NDMzMiwxNzM0MTQ3MTk2LC01MD
+M4NzEyNzMsNDE4ODU1MDcsODMwNjE4OTMzLDE3NzA0MTg5MDAs
+NzMwOTk4MTE2XX0=
 -->
