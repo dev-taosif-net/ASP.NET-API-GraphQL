@@ -101,7 +101,7 @@ Response:
   
   
 
- ## ✅ Future Learning Scope
+ ## ✅ Future Learning Scopes
  - [ ] Banana Cake pop
  - [ ] Test Case
 
@@ -109,7 +109,7 @@ Response:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjIyMTE1MiwtMTkwMDg5OTc4NywxMj
+eyJoaXN0b3J5IjpbLTQ1NzExODEzMSwtMTkwMDg5OTc4NywxMj
 M4MDgyMjQyLDE2NzQ3MDUyNDIsLTE0ODk0NDQ2MTYsNDkwMDI5
 NDQwLDg5NzgyNDU5MCwxNzg0NjIwNzk5LDE3MzQxNDcxOTYsLT
 UwMzg3MTI3Myw0MTg4NTUwNyw4MzA2MTg5MzMsMTc3MDQxODkw
